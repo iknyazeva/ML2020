@@ -45,7 +45,7 @@ author: Ирина Князева
         <a href="https://youtu.be/pHiMN_gy9mk">🎥</a> 
       </td>
     </tr>
-    <tr><td><a href="week01/01-2"> Тернистый путь в машинное обучение 😵</a></td></tr>
+    <tr><td><a href="week01/MlRoadMap_final_Mosina_/"> Тернистый путь в машинное обучение 😵</a></td></tr>
     <tr>
       <td rowspan="1">Практика</td>
       <td>Знакомство с colab</td>
@@ -112,36 +112,36 @@ author: Ирина Князева
     </tr>
     <!-- =============================== WEEK 5 ================================ -->
     <tr>
-      <td rowspan="3" align="center"><a href="week02/02">⑤ (05/10)</a></td>
+      <td rowspan="3" align="center"><a href="week05/05">⑤ (05/10)</a></td>
       <td rowspan="2">Теория</td>
       <td><a href="week01/01-1">Линейные методы регрессии</a></td>
       <td rowspan="2">
-        <a href="https://habr.com/ru/company/ods/blog/323890/">🖥️</a> <a href="https://youtu.be/hpqrDUuk7HY">🎥</a>
-        <a href="https://youtu.be/RflfnCsgNyI">🎥</a>
+        <a href="https://habr.com/ru/company/ods/blog/323890/">Статья на Хабре🖥️</a> <a href="https://youtu.be/3cZ_ScHonsI">Видео от A.Mueller🎥</a>
+        <a href="https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN">Регрессия от Anrew NG (Ch 2)🎥</a>
       </td>
     </tr>
-    <tr><td><a href="week01/01-2"> Метод наименьших квадратов, правдоподобие</a></td></tr>
+    <tr><td><a href="week05/05"> Метод наименьших квадратов, вероятностный взгляд: правдоподобие</a></td></tr>
     <tr>
       <td rowspan="1">Практика</td>
-      <td><a href="en/week01/01-3">Линейная регрессия своими руками</a></td>
+      <td><a href="en/week01/01-3">Линейная регрессия в scikit-learn</a></td>
       <td>
 TBA
       </td>
     </tr>
     <!-- =============================== WEEK 6 ================================ -->
     <tr>
-      <td rowspan="3" align="center"><a href="week02/02">⑥ (12/10)</a></td>
+      <td rowspan="3" align="center"><a href="week06/06">⑥ (12/10)</a></td>
       <td rowspan="2">Теория</td>
-      <td><a href="week01/01-1">Линейные методы классификации</a></td>
+      <td><a href="week06/06-1">Линейные методы классификации</a></td>
       <td rowspan="2">
-        <a href="https://www.vision.rwth-aachen.de/media/course/SS/2019/computer-vision/cv19-part02-image-processing.pdf">🖥️</a> <a href="https://youtu.be/hpqrDUuk7HY">🎥</a>
-        <a href="https://youtu.be/5xdbJ7z4Nrc">🎥</a>
+       <a href="https://habr.com/ru/company/ods/blog/323890/">Статья на Хабре🖥️</a> <a href="https://youtu.be/MRfLSgJyfpQ">Видео от A.Mueller🎥</a>
+        <a href="https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN">Классификация от Anrew NG (Ch 2)🎥</a>
       </td>
     </tr>
-    <tr><td><a href="week01/01-2">  SVM </a></td></tr>
+    <tr><td><a href="week06/06-1">  SVM </a></td></tr>
     <tr>
       <td rowspan="1">Практика</td>
-      <td><a href="en/week01/01-3">примеры в scikit-learn</a></td>
+      <td><a href="en/week06/06-2">Примеры в scikit-learn</a></td>
       <td>
 TBA
       </td>
