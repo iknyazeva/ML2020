@@ -123,9 +123,9 @@ author: Ирина Князева
     <tr><td><a href="week05/05"> Метод наименьших квадратов, вероятностный взгляд: правдоподобие</a></td></tr>
     <tr>
       <td rowspan="1">Практика</td>
-      <td><a href="en/week01/01-3">Линейная регрессия в scikit-learn</a></td>
+      <td><a href="en/week01/01-3">Линейная регрессия своими руками и в scikit-learn</a></td>
       <td>
-TBA
+        <a href="https://colab.research.google.com/drive/17DrONeJ6gSX4-cGnGUDrkHOpOMYNrBR4?usp=sharing"> Прогрессируем с регрессией📓</a>
       </td>
     </tr>
     <!-- =============================== WEEK 6 ================================ -->
@@ -148,12 +148,12 @@ TBA
     </tr>
     <!-- =============================== WEEK 7 ================================ -->
     <tr>
-      <td rowspan="3" align="center"><a href="week02/02">⑦  (19/10)</a></td>
+      <td rowspan="3" align="center"><a href="week07/01">⑦  (19/10)</a></td>
       <td rowspan="2">Теория</td>
-      <td><a href="week01/01-1">Решающие деревья, случайный лес</a></td>
+      <td><a href="week07/02">Решающие деревья, случайный лес</a></td>
       <td rowspan="2">
-        <a href="https://www.vision.rwth-aachen.de/media/course/SS/2019/computer-vision/cv19-part02-image-processing.pdf">🖥️</a> <a href="https://youtu.be/hpqrDUuk7HY">🎥</a>
-        <a href="https://youtu.be/5xdbJ7z4Nrc">🎥</a>
+       <a href="https://habr.com/ru/company/ods/blog/322534/">Статья на Хабре🖥️</a> <a href="https://youtu.be/_FBgcCbAvig">Видео от A.Mueller🎥</a>
+        <a href="https://youtu.be/wr9gUr-eWdA"> От создателей cs229🎥</a>
       </td>
     </tr>
     <tr><td><a href="week01/01-2"> Градиентный бустинг</a></td></tr>
