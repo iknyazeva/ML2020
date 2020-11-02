@@ -132,16 +132,16 @@ author: Ирина Князева
     <tr>
       <td rowspan="3" align="center"><a href="week06/06">⑥ (12/10)</a></td>
       <td rowspan="2">Теория</td>
-      <td><a href="week06/06-1">Линейные методы классификации</a></td>
+      <td><a href="week06/06-1">Общая линейная модель. </a></td>
       <td rowspan="2">
        <a href="https://habr.com/ru/company/ods/blog/323890/">Статья на Хабре🖥️</a> <a href="https://youtu.be/MRfLSgJyfpQ">Видео от A.Mueller🎥</a>
         <a href="https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN">Классификация от Anrew NG (Ch 2)🎥</a>
       </td>
     </tr>
-    <tr><td><a href="week06/06-1">  SVM </a></td></tr>
+    <tr><td><a href="week06/06-1"> Метод максимального правдоподобия. </a></td></tr>
     <tr>
-      <td rowspan="1">Практика</td>
-      <td><a href="en/week06/06-2">Примеры в scikit-learn</a></td>
+      <td rowspan="1"> Случайные процессы. Распределения.</td>
+      <td><a href="en/week06/06-2">Примеры</a></td>
       <td>
 TBA
       </td>
@@ -150,16 +150,16 @@ TBA
     <tr>
       <td rowspan="3" align="center"><a href="week07/01">⑦  (19/10)</a></td>
       <td rowspan="2">Теория</td>
-      <td><a href="week07/02">Решающие деревья, случайный лес</a></td>
+      <td><a href="week07/02">Линейный модели: статистический взгляд </a></td>
       <td rowspan="2">
        <a href="https://habr.com/ru/company/ods/blog/322534/">Статья на Хабре🖥️</a> <a href="https://youtu.be/_FBgcCbAvig">Видео от A.Mueller🎥</a>
         <a href="https://youtu.be/wr9gUr-eWdA"> От создателей cs229🎥</a>
       </td>
     </tr>
-    <tr><td><a href="week01/01-2"> Градиентный бустинг</a></td></tr>
+    <tr><td><a href="week01/01-2"> Структура ошибок модели.Разложение ошибки на смещение и разброс </a></td></tr>
     <tr>
       <td rowspan="1">Практика</td>
-      <td><a href="en/week01/01-3">sklearn,  xgboost, catboost</a></td>
+      <td><a href="en/week01/01-3">Схема обучения моделей. AutoML </a></td>
       <td>
 TBA
       </td>
@@ -168,31 +168,66 @@ TBA
     <tr>
       <td rowspan="3" align="center"><a href="week02/02">⑧ (26/10)</a></td>
       <td rowspan="2">Теория</td>
-      <td><a href="week01/01-1">Оценка моделей: метрики качества</a></td>
+      <td><a href="week01/01-1">Задача классификации. SVM.</a></td>
       <td rowspan="2">
         <a href="https://www.vision.rwth-aachen.de/media/course/SS/2019/computer-vision/cv19-part02-image-processing.pdf">🖥️</a> <a href="https://youtu.be/hpqrDUuk7HY">🎥</a>
         <a href="https://youtu.be/5xdbJ7z4Nrc">🎥</a>
       </td>
     </tr>
-    <tr><td><a href="week01/01-2">  Кросс-валидация, настройка гиперпараметров </a></td></tr>
+    <tr><td><a href="week01/01-2">  Оценки качества классификации</a></td></tr>
     <tr>
       <td rowspan="1">Практика</td>
-      <td><a href="en/week01/01-3">Оценки моделей и кросс-валидация с sklearn</a></td>
+      <td><a href="en/week01/01-3">Метрики качества в sklearn</a></td>
       <td>
 TBA
       </td>
     </tr>
-    <!-- =============================== WEEK 9 ================================ -->
+      <!-- =============================== WEEK 9 ================================ -->
     <tr>
-      <td rowspan="3" align="center"><a href="week02/02">⑨ (2/11)</a></td>
+      <td rowspan="3" align="center"><a href="week09/01">⑨(02/11)</a></td>
       <td rowspan="2">Теория</td>
-      <td><a href="week01/01-1">Интерпретация моделей</a></td>
+      <td><a href="week07/02">Решающие деревья, knn</a></td>
+      <td rowspan="2">
+       <a href="https://habr.com/ru/company/ods/blog/322534/">Статья на Хабре🖥️</a> <a href="https://youtu.be/_FBgcCbAvig">Видео от A.Mueller🎥</a> <a href="https://amueller.github.io/COMS4995-s19/slides/aml-08-trees-forests/">Слайды от A.Mueller 🖥️</a>
+        <a href="https://youtu.be/wr9gUr-eWdA"> От создателей cs229🎥</a>
+      </td>
+    </tr>
+    <tr><td><a href="week01/01-2"> k-средние</a></td></tr>
+    <tr>
+      <td rowspan="1">Практика</td>
+      <td><a href="en/week01/01-3">sklearn</a></td>
+      <td>
+TBA
+      </td>
+    </tr>
+    <!-- =============================== WEEK 10 ================================ -->
+    <tr>
+      <td rowspan="3" align="center"><a href="week02/02">⑩(09/11)</a></td>
+      <td rowspan="2">Теория</td>
+      <td><a href="week01/01-1"> Градиентный бустинг </a></td>
+      <td rowspan="2">
+        <a href="https://amueller.github.io/COMS4995-s19/slides/aml-09-gradient-boosting-calibration">Слайды от A.Mueller 🖥️</a> <a href="https://youtu.be/yrTW5YTmFjw">Видео от A.Mueller 🎥</a>
+      </td>
+    </tr>
+    <tr><td><a href="week01/01-2"> Промежуточный тест</a></td></tr>
+    <tr>
+      <td rowspan="1">Практика</td>
+      <td><a href="en/week01/01-3">xgboost, catboost</a></td>
+      <td>
+TBA
+      </td>
+    </tr>
+    <!-- =============================== WEEK 11 ================================ -->
+    <tr>
+      <td rowspan="3" align="center"><a href="week02/02"> ⑪ (16/11)</a></td>
+      <td rowspan="2">Теория</td>
+      <td><a href="week01/01-1">Генерация и отбор признаков.</a></td>
       <td rowspan="2">
         <a href="https://www.vision.rwth-aachen.de/media/course/SS/2019/computer-vision/cv19-part02-image-processing.pdf">🖥️</a> <a href="https://youtu.be/hpqrDUuk7HY">🎥</a>
         <a href="https://youtu.be/5xdbJ7z4Nrc">🎥</a>
       </td>
     </tr>
-    <tr><td><a href="week01/01-2">  Отбор признаков</a></td></tr>
+    <tr><td><a href="week01/01-2">  Интерпретация моделей</a></td></tr>
     <tr>
       <td rowspan="1">Практика</td>
       <td><a href="en/week01/01-3">Средства для отбора признаков</a></td>
@@ -200,13 +235,13 @@ TBA
 TBA
       </td>
     </tr>
-    <!-- =============================== WEEK 10 ================================ -->
+    <!-- =============================== WEEK 12 ================================ -->
     <tr>
-      <td rowspan="3" align="center"><a href="week02/02">⑩ (09/11)</a></td>
+      <td rowspan="3" align="center"><a href="week02/02">⑫(23/11)</a></td>
       <td rowspan="2">Теория</td>
       <td><a href="week01/01-1">Снижение размерности: основные методы</a></td>
       <td rowspan="2">
-        <a href="https://www.vision.rwth-aachen.de/media/course/SS/2019/computer-vision/cv19-part02-image-processing.pdf">🖥️</a> <a href="https://youtu.be/hpqrDUuk7HY">🎥</a>
+       <a href="https://youtu.be/hpqrDUuk7HY">🎥</a>
         <a href="https://youtu.be/5xdbJ7z4Nrc">🎥</a>
       </td>
     </tr>
@@ -218,9 +253,9 @@ TBA
 TBA
       </td>
     </tr>
-     <!-- =============================== WEEK 11 ================================ -->
+     <!-- =============================== WEEK 13 ================================ -->
     <tr>
-      <td rowspan="3" align="center"><a href="week02/02">⑪ (16/11)</a></td>
+      <td rowspan="3" align="center"><a href="week02/02">(16/11)</a></td>
       <td rowspan="2">Теория</td>
       <td><a href="week01/01-1">Кластеризация</a></td>
       <td rowspan="2">
@@ -236,9 +271,9 @@ TBA
 TBA
       </td>
     </tr>
- <!-- =============================== WEEK 12 ================================ -->
+ <!-- =============================== WEEK 14 ================================ -->
     <tr>
-      <td rowspan="3" align="center"><a href="week02/02">⑫ (14/09)</a></td>
+      <td rowspan="3" align="center"><a href="week02/02">(14/09)</a></td>
       <td rowspan="2">Теория</td>
       <td><a href="week01/01-1">Знакомство с нейронными сетями</a></td>
       <td rowspan="2">
@@ -254,43 +289,7 @@ TBA
 TBA
       </td>
     </tr>
- <!-- =============================== WEEK 13 ================================ -->
-    <tr>
-      <td rowspan="3" align="center"><a href="week02/02">⑬ (14/09)</a></td>
-      <td rowspan="2">Теория</td>
-      <td><a href="week01/01-1">Сверточные нейронные сети для работы с изображениями</a></td>
-      <td rowspan="2">
-        <a href="https://www.vision.rwth-aachen.de/media/course/SS/2019/computer-vision/cv19-part02-image-processing.pdf">🖥️</a> <a href="https://youtu.be/hpqrDUuk7HY">🎥</a>
-        <a href="https://youtu.be/5xdbJ7z4Nrc">🎥</a>
-      </td>
-    </tr>
-    <tr><td><a href="week01/01-2"> Рекурентные нейронные сети для работы с последовательностями</a></td></tr>
-    <tr>
-      <td rowspan="1">Практика</td>
-      <td><a href="en/week01/01-3">примеры в Keras</a></td>
-      <td>
-TBA
-      </td>
-    </tr>
- <!-- =============================== WEEK 14 ================================ -->
-    <tr>
-      <td rowspan="3" align="center"><a href="week02/02">⑭ (14/09)</a></td>
-      <td rowspan="2">Теория</td>
-      <td><a href="week01/01-1">Основные этапы построения проекта</a></td>
-      <td rowspan="2">
-        <a href="https://www.vision.rwth-aachen.de/media/course/SS/2019/computer-vision/cv19-part02-image-processing.pdf">🖥️</a> <a href="https://youtu.be/hpqrDUuk7HY">🎥</a>
-        <a href="https://youtu.be/5xdbJ7z4Nrc">🎥</a>
-      </td>
-    </tr>
-    <tr><td><a href="week01/01-2"> Data story telling</a></td></tr>
-    <tr>
-      <td rowspan="1">Практика</td>
-      <td><a href="en/week01/01-3">Работа с пайплайнами</a></td>
-      <td>
-TBA
-      </td>
-    </tr>
-  <!-- =============================== WEEK 14 ================================ -->
+  <!-- =============================== WEEK 15 ================================ -->
   <tr>
     <td rowspan="3" align="center">⑮ (14/09)</td><td rowspan="3" align="center">Презентация проектов  🎭</td><td rowspan="3" align="center">🧑‍🎓👩‍🎓</td><td rowspan="3" align="center">🏆</td>
   </tr>
